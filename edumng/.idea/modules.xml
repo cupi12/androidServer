@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../1to50d/1to50d.iml" filepath="$PROJECT_DIR$/../1to50d/1to50d.iml" group="My Application/1to50d" />
+      <module fileurl="file://$PROJECT_DIR$/../My Application.iml" filepath="$PROJECT_DIR$/../My Application.iml" group="My Application" />
+      <module fileurl="file://$PROJECT_DIR$/../Mycalc/Mycalc.iml" filepath="$PROJECT_DIR$/../Mycalc/Mycalc.iml" group="My Application/Mycalc" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="My Application/app" />
+      <module fileurl="file://$PROJECT_DIR$/edumng.iml" filepath="$PROJECT_DIR$/edumng.iml" group="My Application/edumng" />
+      <module fileurl="file://$PROJECT_DIR$/../eventtest/eventtest.iml" filepath="$PROJECT_DIR$/../eventtest/eventtest.iml" group="My Application/eventtest" />
+      <module fileurl="file://$PROJECT_DIR$/../memo/memo.iml" filepath="$PROJECT_DIR$/../memo/memo.iml" group="My Application/memo" />
+      <module fileurl="file://$PROJECT_DIR$/../app/mymemo/mymemo.iml" filepath="$PROJECT_DIR$/../app/mymemo/mymemo.iml" group="My Application/app/mymemo" />
+      <module fileurl="file://$PROJECT_DIR$/../sqlitetexst/sqlitetexst.iml" filepath="$PROJECT_DIR$/../sqlitetexst/sqlitetexst.iml" group="My Application/sqlitetexst" />
+    </modules>
+  </component>
+</project>

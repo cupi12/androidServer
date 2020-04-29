@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">memo</string>
+    <string name="newMemo">메모작성</string>
+    <string name="search">검색</string>
+    <string name="insert">작성</string>
+    <string name="String">제목입력</string>
+    <string name="content">내용입력</string>
+</resources>

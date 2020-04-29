@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="382dp"
+        android:layout_height="61dp"
+        android:gravity="center"
+        android:text="회원가입이 완료되었습니다!"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/txtUserid"
+        android:layout_width="379dp"
+        android:layout_height="61dp"
+        android:gravity="center"
+        android:hint="id"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="77dp" />
+
+    <TextView
+        android:id="@+id/TxtUsername"
+        android:layout_width="379dp"
+        android:layout_height="61dp"
+        android:gravity="center"
+        android:hint="name"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="221dp" />
+
+    <TextView
+        android:id="@+id/txtuserpw"
+        android:layout_width="379dp"
+        android:layout_height="61dp"
+        android:gravity="center"
+        android:hint="pw"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="147dp" />
+
+    <Button
+        android:id="@+id/btnmanage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="회원관리"
+        tools:layout_editor_absoluteX="162dp"
+        tools:layout_editor_absoluteY="299dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
